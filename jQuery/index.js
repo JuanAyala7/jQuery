@@ -5,6 +5,10 @@
 //$("h1").prepend("<button>New</button>");
 //$("h1").append("<button>New</button>");
 
+//using these ^ will give you more control over where newly
+//created HTML elements are going to go.
+
+
 // Usual way of adding an Event Listener
 //$(document).click(function(event) {
   //$("h1").text(event.key);
