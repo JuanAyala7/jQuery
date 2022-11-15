@@ -1,4 +1,4 @@
-//Adding and Removing Elements with jQuery
+//Adding and Removing Elements with jquery
 
 //$("h1").before("<button>New</button>");
 //$("h1").after("<button>New</button>");
@@ -8,10 +8,12 @@
 //using these ^ will give you more control over where newly
 //created HTML elements are going to go.
 
+
 //To remove all of the button elements ^ inside the
 //current webpage, use the following :
 
 //$("button").remove();
+
 
 
 // Usual way of adding an Event Listener
@@ -19,10 +21,15 @@
   //$("h1").text(event.key);
 //});
 
+
+
 //Event Listener withy jQuery
 //$("h1").on("click", function(){
   //$("h1").css("color", "purple");
 //});
+
+
+
 
 //Adding an Event listener to an element with jQuery
 //$("h1").click(function() {
@@ -30,14 +37,17 @@
 //});
 
 
-//from
+
+
+//from (querySelector)
 //for (var i = 0; i<5; i++) {
   //document.querySelectorAll("button")[i].addEventListener("click", function() {
     //document.querySelector("h1").style.color = "purple";
   //});
 //}
 
-//To
+
+//To (jQuery)
 //$("button").click(function() {
   //$("h1").css("color", "purple");
 //})
@@ -45,11 +55,4 @@
 
 //$("h1").attr("class");
 //$("a").attr("href", "https://www.yahoo.com");
-
 //console.log($("img").attr("src"));
-
-//$("h1").addClass("big-title margin-50");
-
-//$("button");
-//$("button").html("<em>Hey</em>");
-//$("button").text("Don't click me");
