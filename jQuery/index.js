@@ -1,7 +1,7 @@
 //Adding and Removing Elements with jQuery
 
 //$("h1").before("<button>New</button>");
-
+//$("h1").after("<button>New</button>");
 
 // Usual way of adding an Event Listener
 //$(document).click(function(event) {
