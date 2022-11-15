@@ -8,6 +8,11 @@
 //using these ^ will give you more control over where newly
 //created HTML elements are going to go.
 
+//To remove all of the button elements ^ inside the
+//current webpage, use the following :
+
+//$("button").remove();
+
 
 // Usual way of adding an Event Listener
 //$(document).click(function(event) {
