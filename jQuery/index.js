@@ -1,4 +1,7 @@
-$("h1").text("Bye");
+//Adding and Removing Elements with jQuery
+
+
+
 
 // Usual way of adding an Event Listener
 //$(document).click(function(event) {
