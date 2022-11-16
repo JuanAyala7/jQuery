@@ -1,3 +1,12 @@
+// Pre-Built Website Animations with jQuery
+
+//$("button").on("click", function (){
+//  $("h1").hide();
+//});
+
+
+
+
 //Adding and Removing Elements with jquery
 
 //$("h1").before("<button>New</button>");
