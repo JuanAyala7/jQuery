@@ -10,6 +10,19 @@
 //  $("h1").toggle();
 //});
 
+//$("button").on("click", function (){
+//  $("h1").fadeOut();
+//});
+
+//$("button").on("click", function (){
+//  $("h1").fadeIn();
+//});
+
+//$("button").on("click", function (){
+//  $("h1").fadeToggle();
+//});
+
+
 
 
 //Adding and Removing Elements with jquery
